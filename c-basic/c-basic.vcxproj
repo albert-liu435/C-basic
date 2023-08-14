@@ -128,6 +128,8 @@
     <ClCompile Include="03-clock.c" />
     <ClCompile Include="06-goto.c" />
     <ClCompile Include="07-array.c" />
+    <ClCompile Include="08-reverse.c" />
+    <ClCompile Include="09-bubbling.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
