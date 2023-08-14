@@ -32,6 +32,7 @@ int main0702(void)
 
 	printf("数组元素个数：%d\n", sizeof(arr) / sizeof(arr[0]));
 
+
 	system("pause");
 	return EXIT_SUCCESS;
 }
