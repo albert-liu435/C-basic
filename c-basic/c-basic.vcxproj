@@ -123,6 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01-basicPoint.c" />
+    <ClCompile Include="02-point.c" />
+    <ClCompile Include="03-void.c" />
+    <ClCompile Include="04-const.c" />
+    <ClCompile Include="05-array.c" />
+    <ClCompile Include="06-Array2.c" />
+    <ClCompile Include="07-strlen.c" />
+    <ClCompile Include="08-pointcompare.c" />
+    <ClCompile Include="09-arrayPoint.c" />
+    <ClCompile Include="10-duo.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

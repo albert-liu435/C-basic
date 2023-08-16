@@ -14,4 +14,36 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01-basicPoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="02-point.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03-void.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04-const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="05-array.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="06-Array2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="07-strlen.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="08-pointcompare.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="09-arrayPoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10-duo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
