@@ -14,4 +14,33 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01-传值和传址.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="02-数组做函数参数.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03-数组做函数参数.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04-指针做函数返回值.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="05-指针和字符串.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="06-字符串比较.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="07-字符串拷贝.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="08-字符串找子串.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="09-字符串去空格.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
