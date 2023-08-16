@@ -14,39 +14,4 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\11-二级指针malloc空间.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\01-非空字符串元素个数.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\02-字符串逆序.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\03-字符串拷贝strcpy和strncpy.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\04-字符串拼接 strcat和strncat.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\05-strcmp和strncmpz字符串比较.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\06-格式化读入和写出 sprintf、sscanf.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\07-字符串分割strtok.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\08-atoi_atof_atol.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\09-局部变量.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\C++就业班视频教程项目面试Linux网络编程QT数据库后台后端开发课\C++就业班全套课程（视频+讲义+代码+软件）\01.C语言基础\C语言基础-第08天(字符串和内存)\C语言基础-第08天(字符串和内存)\3-源代码\day08\day08\10-申请堆空间.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
