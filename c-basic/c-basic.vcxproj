@@ -123,6 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01-struct.c" />
+    <ClCompile Include="01-typeof.c" />
+    <ClCompile Include="02-void使用.c" />
+    <ClCompile Include="03-sizeof.c" />
+    <ClCompile Include="04-变量的修改方式.c" />
+    <ClCompile Include="05-栈区.c" />
+    <ClCompile Include="06-堆区.c" />
+    <ClCompile Include="07-staticandextern.c" />
+    <ClCompile Include="08-常量区.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

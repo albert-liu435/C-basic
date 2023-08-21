@@ -14,4 +14,36 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01-struct.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="01-typeof.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="02-void使用.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="03-sizeof.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="04-变量的修改方式.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="05-栈区.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="06-堆区.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="07-staticandextern.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="08-常量区.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
