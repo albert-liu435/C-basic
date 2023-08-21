@@ -51,7 +51,7 @@ void test84()
 
 }
 
-int main() {
+int main08() {
 	test81();
 	//test82();
 	//test83();
