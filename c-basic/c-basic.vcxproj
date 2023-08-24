@@ -123,6 +123,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01设计一个类求圆的周长.cpp" />
+    <ClCompile Include="02内联函数引出-宏缺陷.cpp" />
+    <ClCompile Include="03函数的默认参数和占位参数.cpp" />
+    <ClCompile Include="04函数重载.cpp" />
+    <ClCompile Include="05externC浅析.cpp" />
+    <ClCompile Include="06C语言下的封装.c" />
+    <ClCompile Include="07C++语言下的封装.cpp" />
+    <ClCompile Include="08尽量将成员属性设置为私有.cpp" />
+    <ClCompile Include="test.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="test.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
