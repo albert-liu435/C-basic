@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -123,6 +123,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01立方体类设计案例.cpp" />
+    <ClCompile Include="02点和圆关系案例.cpp" />
+    <ClCompile Include="03构造函数和析构函数.cpp" />
+    <ClCompile Include="04构造函数的分类以及调用.cpp" />
+    <ClCompile Include="05拷贝构造函数的调用时机.cpp" />
+    <ClCompile Include="06构造函数的调用规则.cpp" />
+    <ClCompile Include="07深拷贝与浅拷贝问题以及解决.cpp" />
+    <ClCompile Include="08初始化列表.cpp" />
+    <ClCompile Include="09类对象作为类成员.cpp" />
+    <ClCompile Include="10explicit关键字使用.cpp" />
+    <ClCompile Include="11new和delete使用.cpp" />
+    <ClCompile Include="circle.cpp" />
+    <ClCompile Include="point.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="circle.h" />
+    <ClInclude Include="point.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
