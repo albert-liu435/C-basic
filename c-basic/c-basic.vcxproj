@@ -123,6 +123,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01静态成员.cpp" />
+    <ClCompile Include="02单例模式-主席类案例.cpp" />
+    <ClCompile Include="03单例模式-打印机案例.cpp" />
+    <ClCompile Include="04C++对象初探.cpp" />
+    <ClCompile Include="05this指针的使用.cpp" />
+    <ClCompile Include="06空指针访问成员函数.cpp" />
+    <ClCompile Include="07常函数和常对象.cpp" />
+    <ClCompile Include="08全局函数做友元函数.cpp" />
+    <ClCompile Include="09类作为友元类.cpp" />
+    <ClCompile Include="10成员函数作为友元函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
