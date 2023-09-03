@@ -124,6 +124,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01强化训练-数组类封装.cpp" />
+    <ClCompile Include="02加号运算符重载.cpp" />
+    <ClCompile Include="03左移运算符重载.cpp" />
+    <ClCompile Include="04递增运算符重载.cpp" />
+    <ClCompile Include="05指针运算符重载.cpp" />
+    <ClCompile Include="06赋值运算符重载.cpp" />
+    <ClCompile Include="myArray.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
