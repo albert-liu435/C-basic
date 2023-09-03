@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01-basicPoint.c" />
+    <ClCompile Include="01basic.c" />
     <ClCompile Include="02-point.c" />
     <ClCompile Include="03-void.c" />
     <ClCompile Include="04-const.c" />

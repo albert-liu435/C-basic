@@ -45,5 +45,8 @@
     <ClCompile Include="10-duo.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="01basic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

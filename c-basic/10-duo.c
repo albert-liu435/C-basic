@@ -5,7 +5,7 @@
 #include <math.h>
 #include <time.h>
 
-int main(void)
+int main00(void)
 {
 	int a = 10;
 	int *p = &a;
