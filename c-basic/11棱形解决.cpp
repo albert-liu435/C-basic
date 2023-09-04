@@ -59,8 +59,8 @@ void test112()
 
 int main() {
 
-	//test111();
-	test112();
+	test111();
+	//test112();
 	system("pause");
 	return EXIT_SUCCESS;
 }
