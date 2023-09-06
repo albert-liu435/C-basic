@@ -3,9 +3,11 @@
 //<>：使用系统库函数。"":用户自定义的库函数
 #include <stdio.h>
 
-int main(void) { //int:表示函数返回值是整形数据。main：函数名，是程序的唯一入口，必须有且只有一次
+int main02(void) { //int:表示函数返回值是整形数据。main：函数名，是程序的唯一入口，必须有且只有一次
 
 	printf("hello world\n");
 	//返回当前函数的调用
+
+	
 	return 0;
 }

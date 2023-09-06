@@ -21,5 +21,11 @@
     <ClCompile Include="hello.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="a.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="b.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
