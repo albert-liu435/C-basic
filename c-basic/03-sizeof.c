@@ -7,7 +7,7 @@
 
 #define N 1024		// 定义常量
 
-int main(void)
+int main0301(void)
 {
 	int a = 10;		// 定义变量： 三要素
 

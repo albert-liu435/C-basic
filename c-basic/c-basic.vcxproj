@@ -126,6 +126,7 @@
     <ClCompile Include="01-const.c" />
     <ClCompile Include="02-variable.c" />
     <ClCompile Include="03-sizeof.c" />
+    <ClCompile Include="h_01_const.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

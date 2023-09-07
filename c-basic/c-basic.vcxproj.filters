@@ -24,5 +24,8 @@
     <ClCompile Include="03-sizeof.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="h_01_const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
