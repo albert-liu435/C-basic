@@ -14,4 +14,30 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hm_01_typeof.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_02_void.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_03_sizeof.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_04_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_05_head.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_06_stack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_07_static.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_08_const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
