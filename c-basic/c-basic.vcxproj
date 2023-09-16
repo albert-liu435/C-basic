@@ -123,6 +123,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="hm_01_macro.c" />
+    <ClCompile Include="hm_02_variable.c" />
+    <ClCompile Include="hm_03_heap.c" />
+    <ClCompile Include="hm_04_null.c" />
+    <ClCompile Include="hm_05_point.c" />
+    <ClCompile Include="hm_05_间接.c" />
+    <ClCompile Include="hm_07_特性.c" />
+    <ClCompile Include="hm_08_string.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

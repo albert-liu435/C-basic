@@ -14,4 +14,30 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hm_01_macro.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_02_variable.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_03_heap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_04_null.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_05_point.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_05_间接.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_07_特性.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_08_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
