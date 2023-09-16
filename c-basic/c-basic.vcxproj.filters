@@ -15,37 +15,26 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hm_01_calloc.c">
+    <ClCompile Include="hm_01_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hm_02_sscanf.c">
+    <ClCompile Include="hm_02_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hm_03_子串.c">
+    <ClCompile Include="hm_03_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hm_04_point.c">
+    <ClCompile Include="hm_04_array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hm_05_const.c">
+    <ClCompile Include="hm_05_struct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hm_06_towpoint.c">
+    <ClCompile Include="hm_06_struct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hm_07_two.point.c">
+    <ClCompile Include="hm_07_struct.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="hm_08_twopoint.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="hm_09_位运算.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="test.txt">
-      <Filter>Source Files</Filter>
-    </Text>
   </ItemGroup>
 </Project>
