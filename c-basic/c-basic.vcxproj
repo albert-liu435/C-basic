@@ -123,6 +123,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="hm_01_calloc.c" />
+    <ClCompile Include="hm_02_sscanf.c" />
+    <ClCompile Include="hm_03_子串.c" />
+    <ClCompile Include="hm_04_point.c" />
+    <ClCompile Include="hm_05_const.c" />
+    <ClCompile Include="hm_06_towpoint.c" />
+    <ClCompile Include="hm_07_two.point.c" />
+    <ClCompile Include="hm_08_twopoint.c" />
+    <ClCompile Include="hm_09_位运算.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

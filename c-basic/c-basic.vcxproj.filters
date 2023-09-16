@@ -14,4 +14,38 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hm_01_calloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_02_sscanf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_03_子串.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_04_point.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_05_const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_06_towpoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_07_two.point.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_08_twopoint.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="hm_09_位运算.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
